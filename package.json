@@ -1,0 +1,25 @@
+{
+  "name": "sandeepfinance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "0.0.1-security",
+    "papaparse": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrooklynP/sandeepsFinance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrooklynP/sandeepsFinance/issues"
+  },
+  "homepage": "https://github.com/BrooklynP/sandeepsFinance#readme"
+}

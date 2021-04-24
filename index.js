@@ -1,7 +1,6 @@
 const http = require('http');
 const fs = require('fs');
 const Papa = require('papaparse');
-const path = require('path');
 
 const file = fs.createWriteStream("data.txt");
 
