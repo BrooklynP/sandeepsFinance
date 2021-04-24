@@ -96,5 +96,5 @@ function proccessData(fileName) {
 
             }
         });
-    }, 3600000);
+    }, 900000);
 }
